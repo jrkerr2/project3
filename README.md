@@ -3,3 +3,8 @@
  - Lucky Fang - Front-end, Auth / Passport.js
  - Shauna Bodwell - DB & ORM/ODM
  - John Kerr - Back-end & APIs / Github & Branch (CM)
+
+ ## Trello Board Here
+ https://trello.com/b/bHI6yGNU/coding-bootcamp-project-3
+
+ 

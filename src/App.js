@@ -18,7 +18,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Details pending...
+            Details pending...adding Github commit to test auto Heroku deploy.
           </a>
         </header>
       </div>
