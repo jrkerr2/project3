@@ -10,7 +10,7 @@ class App extends Component {
         <header className="App-header">
           <img src={altLogo} className="App-logo" alt="logo" />
           <p>
-            Project 3: Full stack React-based application coming soon to a Bootcamp near you.
+            Project 3: Full stack React-based application coming soon to a Bootcamp near you...
           </p>
           <a
             className="App-link"
@@ -18,7 +18,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Details pending...adding Github commit to test auto Heroku deploy.
+            Link to Trello board.
           </a>
         </header>
       </div>
